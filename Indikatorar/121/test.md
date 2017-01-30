@@ -1,4 +1,10 @@
 
 # Namn på indikator
 
-## WCAG 2.0
+## WCAG-krav
+
+## Kva innhald skal testast
+
+## Kva skal til for at kravet er oppfylt?
+
+## Testprossedyre
