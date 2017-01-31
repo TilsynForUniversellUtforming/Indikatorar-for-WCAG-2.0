@@ -10,7 +10,7 @@
 ## Testprossedyre
 
 
-| data | test
--------|----
-| data | data 
-| data | data 
+| data | test | test
+-------|----  | ----
+| data | data | test
+| data | data | test 
