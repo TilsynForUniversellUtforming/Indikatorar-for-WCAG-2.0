@@ -8,3 +8,9 @@
 ## Kva skal til for at kravet er oppfylt?
 
 ## Testprossedyre
+
+
+| data | test
+-------|----
+| data | data 
+| data | data 
