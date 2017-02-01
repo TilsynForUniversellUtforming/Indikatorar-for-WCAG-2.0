@@ -1,5 +1,6 @@
 # Namn  på indikator
 Status på indikatoren:
+
 Dato for sist oppdatert:
 
 Dette er ein av x indikatorar som dekker suksesskriteriet i WCAG. Det må vere samsvar med alle indikatorane for å oppnå samsvar med kravet i WCAG.
@@ -26,7 +27,7 @@ Første del av testprosedyren. Førebuinga går ut på å gjere seg klar til tes
 | Steg i testprosedyren | Korleis teste | Hjelp til gjennomføring av test | Kva data skal skrivast inn
 
 ### 2. Kvalifisering (Tilpassa overskrift for kvar indikator)
-Andre del av testprosedyren. Kvalifiseringa går ut på å fange opp kom det finst innhald som skal testast.
+Andre del av testprosedyren. Kvalifiseringa går ut på å fange opp om det finst innhald som skal testast.
 
 | Steg | Instruksjon | Hjelp | Dataregistrering | Kilde
 |------|-------------|-------|----------------- |------
@@ -48,4 +49,9 @@ Eit utfall er eit moleg resultat etter ulike kombinasjonar av svar på stega i t
 |------|-------------|-------|-----------------
 | Standardisert tekst på utfall | Oppsummering av samsvar med fasit | Steg i testprosedyren | Steg i testprosedyren. Tal kolonner i tabellen, avheng av kor mange steg det er i testprosedyren
 
+## Teknikkar
+Lenker til kva WCAG-teknikkar indikatoren bygger på.
+
+## Vedlegg
+Lenke til Excel-rekneark til nedlasting.
 
