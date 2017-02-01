@@ -1,21 +1,51 @@
 # Namn  på indikator
-Status, sist oppdatert osb.
+Status på indikatoren:
+Dato for sist oppdatert:
+
 Dette er ein av x indikatorar som dekker suksesskriteriet i WCAG. Det må vere samsvar med alle indikatorane for å oppnå samsvar med kravet i WCAG.
 
 ## WCAG-krav
-SK, lenke til forstå-artikler.
-Oppsummert formål med kravet frå ASTI-notatet.
+Suksesskriterium i WCAG, med lenke til forstå-artikkel.
 
+Oppsummert formål med kravet.
 
-## Kva innhald testar vi?
-«Innhaldselement» i ASTI-notatet.
-Kva reknast som ikkje-forekomst?
+## Kva type innhald testar vi?
+Stikkord for kva innhald vi testar i indikatoren. Eksempel: Tabell, bilete, eller skjema.
+
 ## Kva skal til for at kravet er oppfylt?
-Oppsummering frå reknearket.
-«kva skal til for at kravet er oppfylt» frå Difi-notatet.
+Kort oppsummering av kva som skal til for å oppfylle kravet for innhaldet som blir testa.
+
 ## Korleis testar vi?
-«Korleis testar vi» frå ASTI-notatet.
+Kort oppsummering av testprosedyren.
+
 ### 1. Førebuing
-Kort tekst?
-Tabell for område 1 i reknearket.
-Overskrifter: Nr, Instruksjon, Hjelp, Dataregistrering, Kilde
+Første del av testprosedyren. Førebuinga går ut på å gjere seg klar til test.
+
+| Steg | Instruksjon | Hjelp | Dataregistrering
+|------|-------------|-------|-----------------
+| Steg i testprosedyren | Korleis teste | Hjelp til gjennomføring av test | Kva data skal skrivast inn
+
+### 2. Kvalifisering (Tilpassa overskrift for kvar indikator)
+Andre del av testprosedyren. Kvalifiseringa går ut på å fange opp kom det finst innhald som skal testast.
+
+| Steg | Instruksjon | Hjelp | Dataregistrering | Kilde
+|------|-------------|-------|----------------- |------
+| Steg i testprosedyren | Korleis teste | Hjelp til gjennomføring av test | Kva data skal skrivast inn | Henvisning til WCAG
+
+### 3. Test (Tilpassa overskrift for kvar indikator)
+Tredje del av testprosedyren. Testen går ut på å sjekke ulike måtar å oppfylle kravet på.
+
+| Steg | Instruksjon | Hjelp | Dataregistrering | Kilde
+|------|-------------|-------|----------------- |------
+| Steg i testprosedyren | Korleis teste | Hjelp til gjennomføring av test | Kva data skal skrivast inn | Henvisning til WCAG
+
+## Utfall
+Oversikt over kva registreringar i testprosedyren som gir kva utfall på indikatoren.
+
+Eit utfall er eit moleg resultat etter ulike kombinasjonar av svar på stega i testprosedyren. Utfallet gir ei standardisert og kort oppsummering av observasjonen og om det er samsvar med fasit.
+
+| Utfall | Samsvar | Steg 1 | Steg n
+|------|-------------|-------|-----------------
+| Standardisert tekst på utfall | Oppsummering av samsvar med fasit | Steg i testprosedyren | Steg i testprosedyren. Tal kolonner i tabellen, avheng av kor mange steg det er i testprosedyren
+
+
