@@ -1,9 +1,11 @@
 
 ![alt text](https://www.difi.no/_style/design/difi3/img/difi-logo.png "Difi-logo") 
 
-# Tilsynet tolkar WCAG – Testmetodar og automatiske testdata
+# Om tilsynets arbeid med indikatorar for WCAG 2.0
 
 Tilsyn for universell utforming av IKT i Difi utarbeider versjon 2.0 av metodar for evaluering av nettløysingar opp mot krava i standarden Retningslinjer for tilgjengelig webinnhold (WCAG) 2.0.
+
+Arbeidet består mellom anna i å tolke WCAG 2.0, skrive testmetodar og legge til rette for å automatisere produksjon av testdata.
 
 ## Indikatorane i versjon 2.0 i 2017
 
@@ -40,12 +42,12 @@ I 2017 har vi som mål å levere:
 *	Ei liste med 10-15 måleindikatorar som er egna til å gi ein oversikt over samsvar med WCAG 2.0. utan å måtte teste mot alle krava i standarden. 
 
 ## Versjon 1.0 av indikatorane
-Tilsynet sine eksisterande målemetodar (versjon 1.0) for kontroll og statusmålingar er vurderte i rapporten [Monitoring methodologies for web accessibility in the European Union] (https://ec.europa.eu/digital-single-market/en/news/monitoring-methodologies-web-accessibility-european-union).
+Versjon 2.0 av indikatorane er ei fortsetjing og forbetring av tilsynet sine eksisterande målemetodar for kontroll og statusmålingar, indikatorane versjon 1.0.
+
+Versjon 1.0 av indikatorane er vurderte i rapporten [Monitoring methodologies for web accessibility in the European Union] (https://ec.europa.eu/digital-single-market/en/news/monitoring-methodologies-web-accessibility-european-union).
 
 Rapporten konkluderer med at
 >There is not an existing method that can be considered complete enough and suitable for a European-wide monitoring scheme. The most comprehensive in quantity and quality terms of the analysed methods is the Norwegian one. Therefore, the study team recommendation is to take the Norwegian method as main reference for a European wide monitoring methodology.
-
-Versjon 2.0 av indikatorane er ei fortsetjing og forbetring av dette arbeidet.
 
 ## Om tilsynet og regelverket
 [Tilsyn for universell utforming av IKT] (https://uu.difi.no/) er ein del av [Direktoratet for forvaltning og IKT (Difi)] (https://www.difi.no/).
