@@ -1,6 +1,7 @@
-# Difis indikatorar for WCAG 2.0
+![alt text](https://www.difi.no/_style/design/difi3/img/difi-logo.png "Difi-logo") 
+<br> Tilsyn for universell utforming av IKT
 
-![alt text](https://www.difi.no/_style/design/difi3/img/difi-logo.png "Difi logo") 
+# Difis indikatorar for WCAG 2.0
 
 Tilsynet i Difi publiserer arbeidsversjonar av våre indikatorar for WCAG 2.0 på GitHub i 2017. Vi ønsker å bidra til fagleg diskusjon og få innspel til forbetringar før ferdigstilling.
 
