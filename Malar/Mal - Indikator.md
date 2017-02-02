@@ -1,18 +1,18 @@
 ![alt text](https://www.difi.no/_style/design/difi3/img/difi-logo.png "Difi logo")  
 Tilsyn for universell utforming av IKT - Arbeidsdokument
 # Namn  på indikator
-Status på indikatoren:
+**Status på indikatoren:**
 
-Dato for sist oppdatert:
+**Dato for sist oppdatert:**
 
 Dette er ein av x indikatorar som dekker suksesskriteriet i WCAG. Det må vere samsvar med alle indikatorane for å oppnå samsvar med kravet i WCAG.
 
 ## WCAG-krav
 Suksesskriterium i WCAG, med lenke til forstå-artikkel.
 
-Oppsummert formål med kravet.
+###Oppsummert formål med kravet.
 
-## Kva type innhald testar vi?
+## Kva testar vi?
 Stikkord for kva innhald vi testar i indikatoren. Eksempel: Tabell, bilete, eller skjema.
 
 ## Kva skal til for at kravet er oppfylt?
