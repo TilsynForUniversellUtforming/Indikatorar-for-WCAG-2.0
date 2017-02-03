@@ -10,7 +10,9 @@ Arbeidet består mellom anna i å tolke WCAG 2.0, skrive testmetodar og legge ti
 
 ## Indikatorane i versjon 2.0 i 2017
 
-På Github publiserer vi arbeidsversjonar av indikatorar i 2017. Vi ønsker å bidra til fagleg diskusjon og få innspel til forbetringar før ferdigstilling. Vi håpar at så mange som mogleg vil prøve ut indikatorane etter kvart som vi legg dei ut her, gi tilbakemeldingar og bidra til god kvalitet.
+Arbeidet med versjon 2.0 av indikatorane starta i 2016 og skal vere ferdig i 2017.
+
+På Github publiserer vi arbeidsversjonar av indikatorarane. Vi ønsker å bidra til fagleg diskusjon og få innspel til forbetringar før ferdigstilling. Vi håpar at så mange som mogleg vil prøve ut indikatorane etter kvart som vi legg dei ut her, gi tilbakemeldingar og bidra til god kvalitet.
 
 Vi tek med oss alle innspel i vårt arbeid med indikatorane. Vi vil i utgangspunktet ikkje gi svar eller tilbakemelding på enkeltinnspel, men vi vil vurdere alle innspela samla.
 
@@ -52,6 +54,12 @@ Rapporten konkluderer med at
 ## Om tilsynet og regelverket
 [Tilsyn for universell utforming av IKT] (https://uu.difi.no/) er ein del av [Direktoratet for forvaltning og IKT (Difi)] (https://www.difi.no/).
 
-Vi kontrollerer at private og offentlege verksemder i Norge etterlever [forskrift om universell utforming av IKT-løysingar] (https://lovdata.no/dokument/SF/forskrift/2013-06-21-732). Tilsynet gjennomfører også statusmålingar og analyserer data for store volum av nettstader.
+Vi kontrollerer at private og offentlege verksemder i Norge etterlever [regelverket om universell utforming av IKT-løysingar] (https://uu.difi.no/krav-og-regelverk/kva-seier-forskrifta). Tilsynet gjennomfører også statusmålingar og analyserer data for store volum av nettstader.
 
-Krava til nettløysingar er standarden [WCAG 2.0] (https://www.w3.org/Translations/WCAG20-no/) på nivå A og AA (med enkelte unntak for tidsbaserte medium).
+Krava til nettløysingar er standarden [Retningslinjer for tilgjengelig webinnhold (WCAG) 2.0] (https://www.w3.org/Translations/WCAG20-no/) på nivå A og AA (med enkelte unntak for tidsbaserte medium).
+
+## Publisering på GitHub i 2017
+
+I 2017 publiserer tilsynet arbeidsversjonar av indikatorane på GitHub.
+
+Geir Sindre Fossøy (brukarnamn geirsf) og Dagfinn Rømen (brukarnamn DagfinnRomen) står for publisering og vedlikehald av innhaldet.
