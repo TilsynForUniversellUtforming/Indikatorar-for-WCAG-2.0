@@ -28,8 +28,8 @@ Første del av testprosedyren. Førebuinga går ut på å gjere seg klar til tes
 |------|-------------|-------|-----------------
 | Steg i testprosedyren | Korleis teste | Hjelp til gjennomføring av test | Kva data skal skrivast inn
 
-### 2. Kvalifisering (Tilpassa overskrift for kvar indikator)
-Andre del av testprosedyren. Kvalifiseringa går ut på å fange opp om det finst innhald som skal testast.
+### 2. (Tilpassa overskrift for kvar indikator)
+Andre del av testprosedyren er ofte ei kvalifisering som går ut på å fange opp om det finst innhald som skal testast.
 
 | Steg | Instruksjon | Hjelp | Dataregistrering | Kilde
 |------|-------------|-------|----------------- |------
