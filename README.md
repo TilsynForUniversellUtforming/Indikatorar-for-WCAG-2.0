@@ -9,7 +9,7 @@ Vi håpar at så mange som mogleg vil prøve ut indikatorane etter kvart som vi 
 
 Vi tek med oss alle innspel i vårt arbeid med indikatorane. Vi vil i utgangspunktet ikkje gi svar eller tilbakemelding på enkeltinnspel, men vi vil vurdere alle innspela samla.
 
-##Om arbeidet
+## Om arbeidet
 * Måleindikatorane bygger på tilsynet si tolking av krava i WCAG 2.0.
 * Indikatorane inneheld detaljerte testprosedyrar og oversikt over standardiserte testresultat.
 * Testresultata kan hentast ut som kvalitativ informasjon om ein enkelt nettstad, eller som statistikk for benchmarking og analyse.
@@ -18,7 +18,7 @@ Vi tek med oss alle innspel i vårt arbeid med indikatorane. Vi vil i utgangspun
 
 For meir informasjon, sjå [omtale av Difis indikatorarbeid] (https://github.com/TilsynForUniversellUtforming/Indikatorar-for-WCAG-2.0/blob/master/Omtale%20av%20Difis%20indikatorarbeid.md).
 
-##Om tilsynet
+## Om tilsynet
 [Tilsyn for universell utforming av IKT] (https://uu.difi.no/) er ein del av [Direktoratet for forvaltning og IKT (Difi)] (https://www.difi.no/).
 
 Vi kontrollerer at private og offentlege verksemder i Norge etterlever [regelverket for universell utforming av IKT] (https://uu.difi.no/krav-og-regelverk/kva-seier-forskrifta).
