@@ -19,8 +19,8 @@ Vi tek med oss alle innspel i vårt arbeid med indikatorane. Vi vil i utgangspun
 For meir informasjon, sjå [omtale av Difis indikatorarbeid](https://github.com/TilsynForUniversellUtforming/Indikatorar-for-WCAG-2.0/blob/master/Omtale%20av%20Difis%20indikatorarbeid.md).
 
 ## Om tilsynet
-[Tilsyn for universell utforming av IKT](https://uu.difi.no/) er ein del av [Direktoratet for forvaltning og IKT (Difi)(https://www.difi.no/).
+[Tilsyn for universell utforming av IKT](https://uu.difi.no/) er ein del av [Direktoratet for forvaltning og IKT (Difi)](https://www.difi.no/).
 
-Vi kontrollerer at private og offentlege verksemder i Norge etterlever [regelverket for universell utforming av IKT(https://uu.difi.no/krav-og-regelverk/kva-seier-forskrifta).
+Vi kontrollerer at private og offentlege verksemder i Norge etterlever [regelverket for universell utforming av IKT](https://uu.difi.no/krav-og-regelverk/kva-seier-forskrifta).
 
 Krava til nettløysingar er standarden [Retningslinjer for tilgjengelig webinnhold (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-no/) på nivå A og AA (med enkelte unntak).
