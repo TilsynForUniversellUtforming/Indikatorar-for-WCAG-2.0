@@ -38,5 +38,5 @@ Eit utfall er eit moleg resultat etter ulike kombinasjonar av svar på stega i t
 |------|-------------|-------|-----------------
 | Standardisert tekst på utfall | Oppsummering av samsvar med fasit | Steg i testprosedyren | Steg i testprosedyren. Tal kolonner i tabellen, avheng av kor mange steg det er i testprosedyren
 
-## Kilder - Teknikkar i WCAG 2.0
+## Kilder
 Lenker til kva WCAG-teknikkar indikatoren bygger på.
