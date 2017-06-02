@@ -11,6 +11,8 @@ Lenke til forstå-artikkel.
 ## Krav til samsvar
 Oppsummering av kva vi krev for at test skal resultere i samsvar.
 
+## Testprosedyre
+
 ### 1. Førebuing
 
 | Steg | Instruksjon | Hjelp | Dataregistrering
